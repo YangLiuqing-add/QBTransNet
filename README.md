@@ -30,7 +30,10 @@ BibTeX:
 	  pages={doi: 10.1785/0220240388},
           journal={Seismological Research Letters},
 	}
-	
+ 
+------------------    
+## Dataset and Related Papers
+  The Texas earthquake dataset (TXED) catalog can be downloaded from https://www.beg.utexas.edu/texnet-cisr/texnet/earthquake-catalog
 -------------------   
 ## License
     GNU General Public License, Version 3
