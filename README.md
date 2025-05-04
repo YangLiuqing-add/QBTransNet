@@ -19,7 +19,7 @@
 ## Reference
 If you find this package useful, please do not forget to cite the following paper.
 
-    Yang, L., Chen, Y., Siervo, D., Vallejo, K., and Savvaidis, A. (2025). QBTransNet: Deep Learning Earthquake Distinction from Quarry Blasts Using Dilated Convolutional Transformer. Seismological Research Letters. doi: https://doi.org/10.1785/0220240388
+    Yang, L., Chen, Y., Siervo, D., Vallejo, K., and Savvaidis, A. (2025). QBTransNet: Deep Learning Earthquake Distinction from Quarry Blasts Using Dilated Convolutional Transformer. Seismological Research Letters. doi: https://doi.org/10.1785/0220240388.
     
 BibTeX:
 	
@@ -28,7 +28,7 @@ BibTeX:
 	  author={Liuqing Yang and Yangkang Chen and Daniel Siervo and Katerine Vallejo and Alexandros Savvaidis},
 	  year={2025},
 	  pages={doi: 10.1785/0220240388},
-    journal={Seismological Research Letters},
+          journal={Seismological Research Letters},
 	}
 	
 -------------------   
