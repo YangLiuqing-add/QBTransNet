@@ -32,8 +32,8 @@ BibTeX:
 	}
  
 ------------------    
-## Dataset and Related Papers
-  The Texas earthquake dataset (TXED) catalog can be downloaded from https://www.beg.utexas.edu/texnet-cisr/texnet/earthquake-catalog
+## Dataset 
+	The Texas earthquake dataset (TXED) catalog can be downloaded from https://www.beg.utexas.edu/texnet-cisr/texnet/earthquake-catalog. DEMO scripts to extract event information and waveforms can be found at https://github.com/chenyk1990/txed.
 -------------------   
 ## License
     GNU General Public License, Version 3
