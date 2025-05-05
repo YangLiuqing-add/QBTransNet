@@ -26,9 +26,9 @@ BibTeX:
 	@article{Yang2025C,
 	  title={QBTransNet: Deep Learning Earthquake Distinction from Quarry Blasts Using Dilated Convolutional Transformer},
 	  author={Liuqing Yang and Yangkang Chen and Daniel Siervo and Katerine Vallejo and Alexandros Savvaidis},
-	  year={2025},
+          journal={Seismological Research Letters},
 	  pages={doi: 10.1785/0220240388},
-journal={Seismological Research Letters},
+          year={2025},
 	}
  
 ------------------    
