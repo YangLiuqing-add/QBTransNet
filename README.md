@@ -23,7 +23,7 @@ If you find this package useful, please do not forget to cite the following pape
     
 BibTeX:
 	
-	@article{Yang2025C,
+	@article{Yang2025Q,
 	  title={QBTransNet: Deep Learning Earthquake Distinction from Quarry Blasts Using Dilated Convolutional Transformer},
 	  author={Liuqing Yang and Yangkang Chen and Daniel Siervo and Katerine Vallejo and Alexandros Savvaidis},
 	  journal={Seismological Research Letters},
