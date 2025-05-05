@@ -28,7 +28,7 @@ BibTeX:
 	  author={Liuqing Yang and Yangkang Chen and Daniel Siervo and Katerine Vallejo and Alexandros Savvaidis},
 	  year={2025},
 	  pages={doi: 10.1785/0220240388},
-          journal={Seismological Research Letters},
+        journal={Seismological Research Letters},
 	}
  
 ------------------    
