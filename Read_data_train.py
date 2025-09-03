@@ -60,7 +60,7 @@ for ie in eids_qb[0:Nqb]:
     print(f'Shape: {datfin.shape}')
 
 data_qb = np.concatenate(data_qb, axis=0)
-label_qb = np.ones(data_qb.shape[0])  # QB 标记为 1
+label_qb = np.ones(data_qb.shape[0])  # QB labeled as 1
 print(f'[QB] Data shape: {data_qb.shape}')
 
 # ========= Generate dataset =========
