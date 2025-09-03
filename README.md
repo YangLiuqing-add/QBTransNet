@@ -13,9 +13,33 @@
 
 ## Description
 
-**QBTransNet** is deep-learning-based framework for distinguishing between earthquakes and quarry explosions.
+**QBTransNet** is a deep learning-based framework for distinguishing between earthquakes and quarry explosions.
 
 ------------------- 
+
+## How to Run
+
+1. **Prepare datasets**  
+   - Run the following scripts to construct datasets:  
+     ```bash
+     python Read_data_train.py
+     python Read_data_test.py
+     ```
+
+2. **Train the model**  
+   - Open and run the notebook:  
+     ```bash
+     jupyter notebook Train_QBTransNet.ipynb
+     ```
+
+3. **Test the model**  
+   - Open and run the notebook:  
+     ```bash
+     jupyter notebook Test_QBTransNet.ipynb
+     ```
+
+------------------- 
+
 ## Reference
 If you find this package useful, please do not forget to cite the following paper.
 
